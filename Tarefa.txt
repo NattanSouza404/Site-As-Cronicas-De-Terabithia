@@ -1,0 +1,64 @@
+Atividade Avaliativa
+Vence 13 de setembro de 2023 às 21:30
+Instruções
+Crie um site com os seguintes requisitos:
+Tema livre;
+Com 4 páginas no mínimo;
+Com um formulário;
+Com rodapé;
+Com Menu.
+O trabalho é individual é será apresentado na próxima aula.
+
+- TO-DO LIST:
+
+Música, câmeras, roteiro, set de filmagem, teatro, making off;
+{
+    Bastidores, making off;
+    Concerto e álbum da soundtrack;
+    Lojinho (Bonequinho, Camisa);
+}
+
+Página-Inicial:
+- Texto sobre a adaptação;
+- Texto sobre o autor;
+
+Cartas:
+- Texto falando da personagem Matilde;
+- Formatação do Formulário;
+
+Extras:
+- Ter ideias de 3 extras para o filme (concerto, making off/bastidores, lojinho de camisa e bonequinho);
+- Organizar imagens para os extras;
+
+Quem Somos:
+- Ler o que o Gepettão escreveu;
+
+
+SITE OFICIAL (Um livro sendo adaptado pra filme)
+- Página Inicial;
+- Notícias;
+- Autor Original/livro;
+- Produção e bastidores;
+- Enviar cartinha pro personagem fictício;
+- Quem somos;
+https://www.tumblr.com/search/cinema%20fantasia?src=typed_query
+
+INTO THE WOODS (João Pé de Feijão, Cinderela, Rapunzel, Chapéuzinho)
+HARRY POTTER
+LOTR
+ALICE NO PAIS DAS MARAVILHAS
+
+IDEIAS:
+- Notícias;
+- Games, detonados;
+- Reviews IMDB;
+- Análises de alguma coisa;
+- Lojinho;
+- Wikipédia de alguma coisa;
+- TOP 10 alguma coisa;
+- Curso online;
+- Tutorial;
+- Site de apresentação de um filme, algum jogo;
+(https://ordemparanormal.com.br)
+
+- Programação, tecnologia;
