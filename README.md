@@ -20,7 +20,6 @@ Inspirações:
 SITE OFICIAL (Um livro sendo adaptado pra filme)
 - Página Inicial;
 - Notícias;
-- Autor Original/livro;
-- Produção e bastidores;
-- Enviar cartinha pro personagem fictício;
+- Cartas da Matilde;
+- Extras (Produção e bastidores);
 - Quem somos;
