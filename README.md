@@ -1,6 +1,6 @@
-# Apresentacao-de-PHP
+# Site - As Crônicas de Terabithia
 
-Este site foi feito como uma apresentação na minha matéria de Eletiva-PHP.
+Este site foi feito como uma apresentação na minha matéria de Eletiva-PHP, em setembro de 2023.
 A minha ideia foi a de fazer um site de uma produtora de filmes, que estaria
 adaptando um livro para um filme, com o nome "As crônicas de Terabithia".
 
@@ -20,7 +20,6 @@ Inspirações:
 SITE OFICIAL (Um livro sendo adaptado pra filme)
 - Página Inicial;
 - Notícias;
-- Autor Original/livro;
-- Produção e bastidores;
-- Enviar cartinha pro personagem fictício;
+- Cartas da Matilde;
+- Extras (Produção e bastidores);
 - Quem somos;
