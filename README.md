@@ -1,4 +1,4 @@
-# As Crônicas de Terabithia - Site
+# Site - As Crônicas de Terabithia
 
 Este site foi feito como uma apresentação na minha matéria de Eletiva-PHP, em setembro de 2023.
 A minha ideia foi a de fazer um site de uma produtora de filmes, que estaria
