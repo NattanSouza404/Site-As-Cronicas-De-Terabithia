@@ -1,26 +1,21 @@
 # Site - As Crônicas de Terabithia
 
-Este site foi feito como uma apresentação na minha matéria de Eletiva-PHP, em setembro de 2023.
-A minha ideia foi a de fazer um site de uma produtora de filmes, que estaria
-adaptando um livro para um filme, com o nome "As crônicas de Terabithia".
+![image](./imagens/cronicas_terabithia.png)
 
-Crie um site com os seguintes requisitos:
-- Tema livre;
-- Com 4 páginas no mínimo;
-- Com um formulário;
-- Com rodapé;
-- Com menu;
+Este site foi elaborado para uma apresentação da matéria de Eletiva PHP, que realizei na Fatec de Mogi das Cruzes, no 2º semestre de 2023.
+A minha ideia foi a de criar um site fictício de uma produtora de filmes, que estaria fazendo uma adaptação de um livro para filme, com o nome "As crônicas de Terabithia".
+Clique [AQUI](https://ethanhueh.github.io/Site-As-Cronicas-De-Terabithia/) para acessar o site.
 
-Páginas do site:
-- Página Inicial;
-- Notícias;
-- Cartas da Matilde;
-- Extras (Produção e bastidores);
-- Quem somos;
+## Os requisitos para o site foram:
+- Tema livre.
+- Com 4 páginas no mínimo.
+- Com um formulário.
+- Com rodapé.
+- Com menu.
 
-Inspirações:
-- A Ponte de Terabithia;
-- As Crônicas de Nárnia;
-- Harry Potter;
-- O Senhor dos anéis;
-- Alice no país das maravilhas;
+## Inspirações para o site:
+- A Ponte de Terabithia.
+- As Crônicas de Nárnia.
+- Harry Potter.
+- O Senhor dos anéis.
+- Alice no país das maravilhas.
